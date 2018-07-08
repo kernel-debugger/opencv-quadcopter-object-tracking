@@ -2,9 +2,9 @@
 This repository contains code to auto-follow objects using opencv and a quadcopter
 
 
-## Demo video can be watched at
+## Demo video  
 
-https://www.youtube.com/watch?v=6CbXLP3D_yo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6CbXLP3D_yo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Project sketch:
 
