@@ -1,11 +1,12 @@
-# opencv-quadcopter-object-tracking
+# Opencv based quadcopter object tracking
 This repository contains code to auto-follow objects using opencv and a quadcopter
 
-# Demo video can be seen at
+
+## Demo video can be watched at
 
 https://www.youtube.com/watch?v=6CbXLP3D_yo
 
-# Project sketch:
+## Project sketch:
 
 <img src=https://raw.githubusercontent.com/kernel-debugger/opencv-quadcopter-object-tracking/master/Untitled%20Sketch_bb.jpg">
 
