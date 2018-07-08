@@ -1,6 +1,6 @@
-# Opencv based quadcopter object tracking
+# Opencv based quadcopter object tracking 
 This repository contains code to auto-follow objects using opencv and a quadcopter
-
+Quadcopter can be manually controlled using Remote.jar, you can use wifi/3g/4g with the RPI
 
 ## Demo video  
 
@@ -17,7 +17,7 @@ I used a Syma X8HW quadcopter, Raspberry Pi , Arduino Nano and an NRF24L01+ Tran
 
 - An Arduino sketch to read commands from RPI via Serial port and forward them to the quadcopter using an NRF24L01+,(syma_python_cv_udp_controller.ino)
 
-- A Java based UDP client to send commands to the Raspberry Pi (symaUdp.java)
+- A Java based UDP client to send commands to the Raspberry Pi,(symaUdp.java),{ Remote.jar is compiled version }
 
 - Python script to handle object tracking based on color (colortracker.py)
 
