@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=6CbXLP3D_yo
 
 ## Project sketch:
 
-<img src=https://raw.githubusercontent.com/kernel-debugger/opencv-quadcopter-object-tracking/master/Untitled%20Sketch_bb.jpg">
+<img src="https://raw.githubusercontent.com/kernel-debugger/opencv-quadcopter-object-tracking/master/Untitled%20Sketch_bb.jpg">
 
 
 I used a Syma X8HW quadcopter, Raspberry Pi , Arduino Nano and an NRF24L01+ Transceiver
